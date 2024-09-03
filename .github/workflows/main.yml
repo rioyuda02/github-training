@@ -21,5 +21,5 @@ jobs:
           git config user.name rioyuda02
           git config user.email rio.yudayanto244@gmail.com
           git add .
-          git commit -m "Modifiesd Feed"
+          git commit -m "Modified Feed"
           git push
